@@ -4,7 +4,7 @@ import "../index.css";
 
 
 
-class Game extends React.Component {
+class App extends React.Component {
   initialize = () => {
     return {
       history: [
@@ -212,4 +212,4 @@ class Game extends React.Component {
 
 }
 
-export default Game;
+export default App;
